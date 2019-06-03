@@ -48,4 +48,5 @@ cacheSolve <- function(x, ...) {
   
 }
 
-aMatrix <- makeCacheMatrix(c(1/2, -1/4, -1, 3/4), nrow = 2, ncol = 2)
+
+
